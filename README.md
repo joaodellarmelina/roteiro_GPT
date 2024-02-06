@@ -1,5 +1,7 @@
 # Where are we going?
 
+# Projeto paralizado por -> GPT É CARO 
+
 Projeto feito como material de Estudo
 
 ## Tecnologias 
